@@ -20,4 +20,6 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 - Hacer un Pull request de sus respositorios (hechos mediante el fork) a la rama `main` del repositorio de la clase.
 
 # Listado de participantes:
+
+- Daniel Guzman, dguzman-ort.
 - Ezequiel Grynberg
